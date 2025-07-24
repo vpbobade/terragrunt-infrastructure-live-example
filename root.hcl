@@ -53,7 +53,7 @@ remote_state {
 # Configure what repos to search when you run 'terragrunt catalog'
 catalog {
   urls = [
-    "https://github.com/vpbobade/terragrunt-infrastructure-modules-example",
+    "https://github.com/vpbobade/terragrunt-infrastructure-catalog-example",
     "https://github.com/vpbobade/terraform-aws-utilities",
     "https://github.com/vpbobade/terraform-kubernetes-namespace"
   ]
